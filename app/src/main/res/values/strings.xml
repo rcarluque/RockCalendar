@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Rock Calendar</string>
+
+    <string name="acontecimientos_defecto">No hay acontecimientos</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_borrar_acontecimiento">Eliminar</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="buscar_acontecimiento">Introduzca un acontecimiento...</string>
+    <string name="buscar">Buscar</string>
+    <string name="ver_eventos">"Ver eventos"</string>
+
+    <!-- Title activities -->
+    <string name="title_activity_buscar_acontecimientos">Buscar Acontecimientos</string>
+    <string name="title_activity_mostrar_acontecimiento">Muestra Acontecimiento</string>
+    <string name="title_activity_listado_acontecimientos">Listado Acontecimientos</string>
+    <string name="title_activity_eventos">Eventos</string>
+
+    <!-- Permisos -->
+    <string name="internet_permission_denied">El permiso de internet ha sido denegado</string>
+    <string name="internet_permission_granted">El permiso de internet ha sido aceptado</string>
+
+    <!-- Dialogs -->
+    <string name="title_borra_acontecimiento">Borrado acontecimiento</string>
+    <string name="body_borra_acontecimiento">Se va a borrar el acontecimiento de la Base de Datos ¿Está seguro de ello?</string>
+    <string name="title_activity_configuracion">Configuración</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_list_idioma">Selecciona un idioma</string>
+    <string name="pref_switch_acontecimiento_title">Mostrar último acontecimiento</string>
+    <string name="pref_switch_acontecimiento_descripcion">Muestra el ultimo acontecimiento visitado</string>
+
+    <string name="pref_alert_title">Cambio en idioma</string>
+    <string name="pref_alert_content">Se ha detectado un cambio en los idiomas y se va a reiniciar la aplicación</string>
+
+    <string-array name="pref_idioma_titulos">
+        <item>Español</item>
+        <item>Inglés</item>
+    </string-array>
+
+    <string-array name="pref_idioma_values">
+        <item>es</item>
+        <item>en</item>
+    </string-array>
+
+</resources>

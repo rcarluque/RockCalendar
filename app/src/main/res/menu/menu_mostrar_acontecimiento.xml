@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.manue.rockcalendar.MostrarAcontecimientoActivity">
+    <item
+        android:id="@+id/action_borrar_acontecimiento"
+        android:orderInCategory="100"
+        android:title="@string/action_borrar_acontecimiento"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rock Calendar</string>
+
+    <string name="acontecimientos_defecto">No events</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_borrar_acontecimiento">Delete</string>
+    <string name="acerca_de">About Us</string>
+    <string name="buscar_acontecimiento">Insert event...</string>
+    <string name="buscar">Search</string>
+    <string name="ver_eventos">Show Events</string>
+
+    <!-- Title activities -->
+    <string name="title_activity_buscar_acontecimientos">Search Events</string>
+    <string name="title_activity_mostrar_acontecimiento">Show Events</string>
+    <string name="title_activity_listado_acontecimientos">List Events</string>
+    <string name="title_activity_eventos">Eventos</string>
+
+    <!-- Permisos -->
+    <string name="internet_permission_denied">El permiso de internet ha sido denegado</string>
+    <string name="internet_permission_granted">El permiso de internet ha sido aceptado</string>
+
+    <!-- Dialogs -->
+    <string name="title_borra_acontecimiento">Event delete</string>
+    <string name="body_borra_acontecimiento">Se va a borrar el acontecimiento de la Base de Datos ¿Está seguro de ello?</string>
+    <string name="title_activity_configuracion">Configuración</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_list_idioma">Select Language</string>
+    <string name="pref_switch_acontecimiento_title">Show Last Event</string>
+    <string name="pref_switch_acontecimiento_descripcion">Show last event visited</string>
+
+    <string name="pref_alert_title">Language Change</string>
+    <string name="pref_alert_content">Language change detected, the application will restart</string>
+
+    <string-array name="pref_idioma_titulos">
+        <item>Spanish</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="pref_idioma_values">
+        <item>es</item>
+        <item>en</item>
+    </string-array>
+</resources>
